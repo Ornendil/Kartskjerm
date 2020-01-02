@@ -2,7 +2,7 @@
 var kommunekart = new Kommunekart.Map({
     container: 'container',
     appId: 'Kommunekart',
-    municipality: '0235',
+    municipality: '3033',
     measure:true
 });
         
